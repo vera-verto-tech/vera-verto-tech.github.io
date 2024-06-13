@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Installation on Vera Verto AI</title>
+    <link>//localhost:8001/tags/installation/</link>
+    <description>Recent content in Installation on Vera Verto AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Vera Verto AI</copyright>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:8001/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation</title>
+      <link>//localhost:8001/installation/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:8001/installation/</guid>
+      <description>Simply follow the standard Hugo Quick Start procedure to get up and running quickly.
+Detailed installation instructions can be found below. Instructions for updating the theme are also available.
+Installation # This</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:8001/installation/featured.png" />
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>//localhost:8001/docs/installation/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:8001/docs/installation/</guid>
+      <description>Simply follow the standard Hugo Quick Start procedure to get up and running quickly.
+Detailed installation instructions can be found below. Instructions for updating the theme are also available.
+Installation # This</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:8001/docs/installation/featured.png" />
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>//localhost:8001/docs/installation/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:8001/docs/installation/</guid>
+      <description>Simply follow the standard Hugo Quick Start procedure to get up and running quickly.
+Detailed installation instructions can be found below. Instructions for updating the theme are also available.
+Installation # This</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:8001/docs/installation/featured.png" />
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>//localhost:8001/docs/installation/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:8001/docs/installation/</guid>
+      <description>Simply follow the standard Hugo Quick Start procedure to get up and running quickly.
+Detailed installation instructions can be found below. Instructions for updating the theme are also available.
+Installation # 这个是 momory echo</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:8001/docs/installation/featured.png" />
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>//localhost:8001/docs/getting-started/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:8001/docs/getting-started/</guid>
+      <description>This section assumes you have already installed the Blowfish theme. The config files that ship with Blowfish contain all of the possible settings that the theme recognises. By default, many of these are commented out but you can simply uncomment them to activate or change a specific feature.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:8001/docs/getting-started/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
